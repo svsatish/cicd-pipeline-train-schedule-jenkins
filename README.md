@@ -1,4 +1,4 @@
-# cicd-pipeline-train-schedule-jenkins - Satish's version for Jenkins LA test
+# cicd-pipeline-train-schedule-jenkins - Satish's version for Jenkins LA test - v2
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
 
